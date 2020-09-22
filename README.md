@@ -2,7 +2,7 @@
 YPLABS RN todo 과제_정윤재 
 
 ### 실행조건
-1. clone
+1. npm install
 2. cd ios && pod install
 3. npx react-native run-ios or run android
 
