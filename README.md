@@ -1,5 +1,4 @@
 # todoyp
-YPLABS RN todo 과제_정윤재 
 
 ### 실행조건
 1. npm install
