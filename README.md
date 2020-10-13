@@ -1,4 +1,9 @@
-# todoyp
+# todolist 
+
+## 사용기술
+- react-native
+- redux
+- redux-saga
 
 ### 실행조건
 1. npm install
